@@ -7,14 +7,8 @@ module.exports = {
     {
       resolve: "gatsby-source-contentful",
       options: {
-        accessToken: "HF0e0AJcjmn6fUVPUweNFPGCIRZbrg2krhcZxX6ENBE",
-        spaceId: "",
-      },
-    },
-    {
-      resolve: "gatsby-plugin-google-analytics",
-      options: {
-        trackingId: "",
+        accessToken: "9LddIvx0I6cIZdKCc3WIYGfd4ZdnG7AnREupxf536bs",
+        spaceId: "mshe2wat8vkh",
       },
     },
     "gatsby-plugin-image",
