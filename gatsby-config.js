@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    siteUrl: "https://www.yourdomain.tld",
+    siteUrl: "https://contentfultogatsbymaster96109.gatsbyjs.io/",
     title: "contentfultogatsby",
   },
   plugins: [
@@ -14,6 +14,7 @@ module.exports = {
     "gatsby-plugin-image",
     "gatsby-plugin-react-helmet",
     "gatsby-plugin-sharp",
+    "gatsby-plugin-postcss",
     "gatsby-transformer-sharp",
     {
       resolve: "gatsby-source-filesystem",

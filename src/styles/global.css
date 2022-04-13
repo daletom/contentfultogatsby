@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.article {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 1rem;
+};
+
+.gallery {
+    padding: 12px;
+};
+
+.gallery-text {
+    font-size: 0.5rem;
+    line-height: 2rem;
+};
